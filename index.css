@@ -1,8 +1,14 @@
- .form-box {
-      background-color: #fffff2; 
+    .form-box {
+      background-color: #f8f9fa;
       padding: 30px;
       border-radius: 10px;
       box-shadow: 0 4px 10px rgba(0,0,0,0.1);
       max-width: 400px;
       margin: auto;
+    }
+
+    footer {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
     }
